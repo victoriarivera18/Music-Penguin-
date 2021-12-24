@@ -1,0 +1,9 @@
+using colors based on Music Penguin Logo design
+
+- orange #F2C342
+- yellow #c5c500
+- white #FFFFFF
+- black #000000
+- violet #7657DA
+
+Website used: https://www.quackit.com/css/css_color_codes.cfm
