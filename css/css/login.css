@@ -1,0 +1,97 @@
+body {
+  background-color: #7657DA;
+}
+
+.form-floating {
+  padding-bottom : 2%;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 20rem;
+  padding: 15px;
+  margin: auto;
+  background-color: #7657DA;
+  color: #F2C342;
+  
+}
+.form-floating{
+  color: black;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="username"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-signin  button{
+  background-color: #F2C342;
+  margin-bottom: 20px;
+}
+
+.form-signin  button:hover{
+  background-color:indigo;
+  margin-bottom: 20px;
+}
+
+
+#signupButton {
+  max-width: 11rem;
+}
+
+@font-face {
+  font-family: 'opendyslexic';
+	src: url('http://dyslexicfonts.com/fonts/OpenDyslexic-Regular.otf');
+	font-style: normal;
+	font-weight: normal;
+} 
+
+@font-face {
+	font-family: 'opendyslexic';
+	src: url('http://dyslexicfonts.com/fonts/OpenDyslexic-Italic.ttf');
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'opendyslexic';
+	src: url('http://dyslexicfonts.com/fonts/OpenDyslexic-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+} 
+
+@font-face {
+	font-family: 'opendyslexic';
+	src: url('http://dyslexicfonts.com/fonts/OpenDyslexic-BoldItalic.ttf');
+	font-weight: bold;
+	font-style: italic;
+} 
+
+@font-face {
+	font-family: eulexia;
+	src: url('http://dyslexicfonts.com/fonts/eulexia.ttf');
+} 
+
+
+/*.trigger{*/
+/*  font-family:opendyslexic !important;*/
+/*  font-size:20px;*/
+/*	line-height:200%;*/
+/*	color: #191A42;*/
+	
+/*}*/
