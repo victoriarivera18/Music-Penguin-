@@ -2,6 +2,6 @@ Music Penguin is a web application that is a music hub for all music lovers. It'
 
 Main contribution: API calls and connectivity via javascript, basic html and css
 
-Tech stack: php, javascriptm css and html
+Tech stack: php, javascript, css and html
 
 Group Project for CSCE 315 (Spring 2021)
